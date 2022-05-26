@@ -16,7 +16,7 @@ Then run:
 npm install
 ```
 
-You have to prepare MongoDB, before starting the project. For mor information visit [https://www.mongodb.com/docs/]
+You have to prepare MongoDB, before starting the project. For mor information visit https://www.mongodb.com/docs/
 
 To run this application use:
 
